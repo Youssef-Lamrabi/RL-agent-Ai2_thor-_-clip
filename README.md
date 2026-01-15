@@ -36,7 +36,7 @@ The agent can find the following objects:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai2thor-language-agent.git
+   git clone https://github.com/Youssef-Lamrabi/RL-agent-Ai2_thor_clip
    cd ai2thor-language-agent
    ```
 

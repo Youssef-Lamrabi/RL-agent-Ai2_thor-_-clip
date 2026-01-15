@@ -39,7 +39,7 @@ A stunning web application showcasing real-time AI-powered object navigation usi
 
 ```bash
 # Clone the repository
-git clone https://github.com/azizlg/navi-quest-bot.git
+git clone https://github.com/Youssef-Lamrabi/RL-agent-Ai2_thor_clip
 cd navi-quest-bot
 
 # Install dependencies
@@ -57,7 +57,7 @@ The frontend requires the SnapNav backend to be running:
 
 ```bash
 # Clone backend repository
-git clone https://github.com/azizlg/SnapNav.git
+git clone https://github.com/Youssef-Lamrabi/RL-agent-Ai2_thor_clip
 cd SnapNav
 
 # Install Python dependencies
@@ -230,12 +230,7 @@ This project is open source and available under the MIT License.
 
 ## 📧 Contact
 
-**Abdelaziz** - [@azizlg](https://github.com/azizlg)
+**Abdelaziz** - [@azizlg](https://github.com/Youssef-Lamrabi/RL-agent-Ai2_thor_clip)
 
 **Project Links**:
-- Frontend: [navi-quest-bot](https://github.com/azizlg/navi-quest-bot)
-- Backend: [SnapNav](https://github.com/azizlg/SnapNav)
-
----
-
-Made with ❤️ using React, TypeScript, and AI2-THOR
+- link: https://github.com/Youssef-Lamrabi/RL-agent-Ai2_thor_clip
