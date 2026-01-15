@@ -230,7 +230,7 @@ This project is open source and available under the MIT License.
 
 ## 📧 Contact
 
-**Abdelaziz** - [@azizlg](https://github.com/Youssef-Lamrabi/RL-agent-Ai2_thor_clip)
+**yousseflamrabi** - [@Youssef-Lamrabi](https://github.com/Youssef-Lamrabi/RL-agent-Ai2_thor_clip)
 
 **Project Links**:
 - link: https://github.com/Youssef-Lamrabi/RL-agent-Ai2_thor_clip
